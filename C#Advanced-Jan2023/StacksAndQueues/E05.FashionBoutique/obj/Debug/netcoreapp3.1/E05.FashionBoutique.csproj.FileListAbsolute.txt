@@ -1,0 +1,14 @@
+D:\Advanced C#\Exercises\Lesson1\E05.FashionBoutique\bin\Debug\netcoreapp3.1\E05.FashionBoutique.exe
+D:\Advanced C#\Exercises\Lesson1\E05.FashionBoutique\bin\Debug\netcoreapp3.1\E05.FashionBoutique.deps.json
+D:\Advanced C#\Exercises\Lesson1\E05.FashionBoutique\bin\Debug\netcoreapp3.1\E05.FashionBoutique.runtimeconfig.json
+D:\Advanced C#\Exercises\Lesson1\E05.FashionBoutique\bin\Debug\netcoreapp3.1\E05.FashionBoutique.runtimeconfig.dev.json
+D:\Advanced C#\Exercises\Lesson1\E05.FashionBoutique\bin\Debug\netcoreapp3.1\E05.FashionBoutique.dll
+D:\Advanced C#\Exercises\Lesson1\E05.FashionBoutique\bin\Debug\netcoreapp3.1\E05.FashionBoutique.pdb
+D:\Advanced C#\Exercises\Lesson1\E05.FashionBoutique\obj\Debug\netcoreapp3.1\E05.FashionBoutique.csproj.AssemblyReference.cache
+D:\Advanced C#\Exercises\Lesson1\E05.FashionBoutique\obj\Debug\netcoreapp3.1\E05.FashionBoutique.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced C#\Exercises\Lesson1\E05.FashionBoutique\obj\Debug\netcoreapp3.1\E05.FashionBoutique.AssemblyInfoInputs.cache
+D:\Advanced C#\Exercises\Lesson1\E05.FashionBoutique\obj\Debug\netcoreapp3.1\E05.FashionBoutique.AssemblyInfo.cs
+D:\Advanced C#\Exercises\Lesson1\E05.FashionBoutique\obj\Debug\netcoreapp3.1\E05.FashionBoutique.csproj.CoreCompileInputs.cache
+D:\Advanced C#\Exercises\Lesson1\E05.FashionBoutique\obj\Debug\netcoreapp3.1\E05.FashionBoutique.dll
+D:\Advanced C#\Exercises\Lesson1\E05.FashionBoutique\obj\Debug\netcoreapp3.1\E05.FashionBoutique.pdb
+D:\Advanced C#\Exercises\Lesson1\E05.FashionBoutique\obj\Debug\netcoreapp3.1\E05.FashionBoutique.genruntimeconfig.cache

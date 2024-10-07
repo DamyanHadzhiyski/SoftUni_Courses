@@ -1,0 +1,14 @@
+D:\Advanced C#\Exercises\Lesson1\E03.MaximumandMinimumElement\bin\Debug\netcoreapp3.1\E03.MaximumandMinimumElement.exe
+D:\Advanced C#\Exercises\Lesson1\E03.MaximumandMinimumElement\bin\Debug\netcoreapp3.1\E03.MaximumandMinimumElement.deps.json
+D:\Advanced C#\Exercises\Lesson1\E03.MaximumandMinimumElement\bin\Debug\netcoreapp3.1\E03.MaximumandMinimumElement.runtimeconfig.json
+D:\Advanced C#\Exercises\Lesson1\E03.MaximumandMinimumElement\bin\Debug\netcoreapp3.1\E03.MaximumandMinimumElement.runtimeconfig.dev.json
+D:\Advanced C#\Exercises\Lesson1\E03.MaximumandMinimumElement\bin\Debug\netcoreapp3.1\E03.MaximumandMinimumElement.dll
+D:\Advanced C#\Exercises\Lesson1\E03.MaximumandMinimumElement\bin\Debug\netcoreapp3.1\E03.MaximumandMinimumElement.pdb
+D:\Advanced C#\Exercises\Lesson1\E03.MaximumandMinimumElement\obj\Debug\netcoreapp3.1\E03.MaximumandMinimumElement.csproj.AssemblyReference.cache
+D:\Advanced C#\Exercises\Lesson1\E03.MaximumandMinimumElement\obj\Debug\netcoreapp3.1\E03.MaximumandMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced C#\Exercises\Lesson1\E03.MaximumandMinimumElement\obj\Debug\netcoreapp3.1\E03.MaximumandMinimumElement.AssemblyInfoInputs.cache
+D:\Advanced C#\Exercises\Lesson1\E03.MaximumandMinimumElement\obj\Debug\netcoreapp3.1\E03.MaximumandMinimumElement.AssemblyInfo.cs
+D:\Advanced C#\Exercises\Lesson1\E03.MaximumandMinimumElement\obj\Debug\netcoreapp3.1\E03.MaximumandMinimumElement.csproj.CoreCompileInputs.cache
+D:\Advanced C#\Exercises\Lesson1\E03.MaximumandMinimumElement\obj\Debug\netcoreapp3.1\E03.MaximumandMinimumElement.dll
+D:\Advanced C#\Exercises\Lesson1\E03.MaximumandMinimumElement\obj\Debug\netcoreapp3.1\E03.MaximumandMinimumElement.pdb
+D:\Advanced C#\Exercises\Lesson1\E03.MaximumandMinimumElement\obj\Debug\netcoreapp3.1\E03.MaximumandMinimumElement.genruntimeconfig.cache

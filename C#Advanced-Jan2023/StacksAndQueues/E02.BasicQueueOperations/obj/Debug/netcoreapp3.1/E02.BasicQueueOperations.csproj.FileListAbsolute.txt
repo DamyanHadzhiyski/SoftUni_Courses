@@ -1,0 +1,14 @@
+D:\Advanced C#\Exercises\Lesson1\E02.BasicQueueOperations\bin\Debug\netcoreapp3.1\E02.BasicQueueOperations.exe
+D:\Advanced C#\Exercises\Lesson1\E02.BasicQueueOperations\bin\Debug\netcoreapp3.1\E02.BasicQueueOperations.deps.json
+D:\Advanced C#\Exercises\Lesson1\E02.BasicQueueOperations\bin\Debug\netcoreapp3.1\E02.BasicQueueOperations.runtimeconfig.json
+D:\Advanced C#\Exercises\Lesson1\E02.BasicQueueOperations\bin\Debug\netcoreapp3.1\E02.BasicQueueOperations.runtimeconfig.dev.json
+D:\Advanced C#\Exercises\Lesson1\E02.BasicQueueOperations\bin\Debug\netcoreapp3.1\E02.BasicQueueOperations.dll
+D:\Advanced C#\Exercises\Lesson1\E02.BasicQueueOperations\bin\Debug\netcoreapp3.1\E02.BasicQueueOperations.pdb
+D:\Advanced C#\Exercises\Lesson1\E02.BasicQueueOperations\obj\Debug\netcoreapp3.1\E02.BasicQueueOperations.csproj.AssemblyReference.cache
+D:\Advanced C#\Exercises\Lesson1\E02.BasicQueueOperations\obj\Debug\netcoreapp3.1\E02.BasicQueueOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced C#\Exercises\Lesson1\E02.BasicQueueOperations\obj\Debug\netcoreapp3.1\E02.BasicQueueOperations.AssemblyInfoInputs.cache
+D:\Advanced C#\Exercises\Lesson1\E02.BasicQueueOperations\obj\Debug\netcoreapp3.1\E02.BasicQueueOperations.AssemblyInfo.cs
+D:\Advanced C#\Exercises\Lesson1\E02.BasicQueueOperations\obj\Debug\netcoreapp3.1\E02.BasicQueueOperations.csproj.CoreCompileInputs.cache
+D:\Advanced C#\Exercises\Lesson1\E02.BasicQueueOperations\obj\Debug\netcoreapp3.1\E02.BasicQueueOperations.dll
+D:\Advanced C#\Exercises\Lesson1\E02.BasicQueueOperations\obj\Debug\netcoreapp3.1\E02.BasicQueueOperations.pdb
+D:\Advanced C#\Exercises\Lesson1\E02.BasicQueueOperations\obj\Debug\netcoreapp3.1\E02.BasicQueueOperations.genruntimeconfig.cache

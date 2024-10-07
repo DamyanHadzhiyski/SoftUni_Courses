@@ -1,0 +1,14 @@
+D:\Advanced C#\Exercises\Lesson1\E08.BalancedParenthesis\bin\Debug\netcoreapp3.1\E08.BalancedParenthesis.exe
+D:\Advanced C#\Exercises\Lesson1\E08.BalancedParenthesis\bin\Debug\netcoreapp3.1\E08.BalancedParenthesis.deps.json
+D:\Advanced C#\Exercises\Lesson1\E08.BalancedParenthesis\bin\Debug\netcoreapp3.1\E08.BalancedParenthesis.runtimeconfig.json
+D:\Advanced C#\Exercises\Lesson1\E08.BalancedParenthesis\bin\Debug\netcoreapp3.1\E08.BalancedParenthesis.runtimeconfig.dev.json
+D:\Advanced C#\Exercises\Lesson1\E08.BalancedParenthesis\bin\Debug\netcoreapp3.1\E08.BalancedParenthesis.dll
+D:\Advanced C#\Exercises\Lesson1\E08.BalancedParenthesis\bin\Debug\netcoreapp3.1\E08.BalancedParenthesis.pdb
+D:\Advanced C#\Exercises\Lesson1\E08.BalancedParenthesis\obj\Debug\netcoreapp3.1\E08.BalancedParenthesis.csproj.AssemblyReference.cache
+D:\Advanced C#\Exercises\Lesson1\E08.BalancedParenthesis\obj\Debug\netcoreapp3.1\E08.BalancedParenthesis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced C#\Exercises\Lesson1\E08.BalancedParenthesis\obj\Debug\netcoreapp3.1\E08.BalancedParenthesis.AssemblyInfoInputs.cache
+D:\Advanced C#\Exercises\Lesson1\E08.BalancedParenthesis\obj\Debug\netcoreapp3.1\E08.BalancedParenthesis.AssemblyInfo.cs
+D:\Advanced C#\Exercises\Lesson1\E08.BalancedParenthesis\obj\Debug\netcoreapp3.1\E08.BalancedParenthesis.csproj.CoreCompileInputs.cache
+D:\Advanced C#\Exercises\Lesson1\E08.BalancedParenthesis\obj\Debug\netcoreapp3.1\E08.BalancedParenthesis.dll
+D:\Advanced C#\Exercises\Lesson1\E08.BalancedParenthesis\obj\Debug\netcoreapp3.1\E08.BalancedParenthesis.pdb
+D:\Advanced C#\Exercises\Lesson1\E08.BalancedParenthesis\obj\Debug\netcoreapp3.1\E08.BalancedParenthesis.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Advanced C#\Exercises\Lesson1\E11.KeyRevolver\bin\Debug\netcoreapp3.1\E11.KeyRevolver.exe
+D:\Advanced C#\Exercises\Lesson1\E11.KeyRevolver\bin\Debug\netcoreapp3.1\E11.KeyRevolver.deps.json
+D:\Advanced C#\Exercises\Lesson1\E11.KeyRevolver\bin\Debug\netcoreapp3.1\E11.KeyRevolver.runtimeconfig.json
+D:\Advanced C#\Exercises\Lesson1\E11.KeyRevolver\bin\Debug\netcoreapp3.1\E11.KeyRevolver.runtimeconfig.dev.json
+D:\Advanced C#\Exercises\Lesson1\E11.KeyRevolver\bin\Debug\netcoreapp3.1\E11.KeyRevolver.dll
+D:\Advanced C#\Exercises\Lesson1\E11.KeyRevolver\bin\Debug\netcoreapp3.1\E11.KeyRevolver.pdb
+D:\Advanced C#\Exercises\Lesson1\E11.KeyRevolver\obj\Debug\netcoreapp3.1\E11.KeyRevolver.csproj.AssemblyReference.cache
+D:\Advanced C#\Exercises\Lesson1\E11.KeyRevolver\obj\Debug\netcoreapp3.1\E11.KeyRevolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced C#\Exercises\Lesson1\E11.KeyRevolver\obj\Debug\netcoreapp3.1\E11.KeyRevolver.AssemblyInfoInputs.cache
+D:\Advanced C#\Exercises\Lesson1\E11.KeyRevolver\obj\Debug\netcoreapp3.1\E11.KeyRevolver.AssemblyInfo.cs
+D:\Advanced C#\Exercises\Lesson1\E11.KeyRevolver\obj\Debug\netcoreapp3.1\E11.KeyRevolver.csproj.CoreCompileInputs.cache
+D:\Advanced C#\Exercises\Lesson1\E11.KeyRevolver\obj\Debug\netcoreapp3.1\E11.KeyRevolver.dll
+D:\Advanced C#\Exercises\Lesson1\E11.KeyRevolver\obj\Debug\netcoreapp3.1\E11.KeyRevolver.pdb
+D:\Advanced C#\Exercises\Lesson1\E11.KeyRevolver\obj\Debug\netcoreapp3.1\E11.KeyRevolver.genruntimeconfig.cache

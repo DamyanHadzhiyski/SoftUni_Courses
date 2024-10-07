@@ -1,0 +1,14 @@
+D:\Advanced C#\Exercises\Lesson1\E12.CupsAndBottles\bin\Debug\netcoreapp3.1\E12.CupsAndBottles.exe
+D:\Advanced C#\Exercises\Lesson1\E12.CupsAndBottles\bin\Debug\netcoreapp3.1\E12.CupsAndBottles.deps.json
+D:\Advanced C#\Exercises\Lesson1\E12.CupsAndBottles\bin\Debug\netcoreapp3.1\E12.CupsAndBottles.runtimeconfig.json
+D:\Advanced C#\Exercises\Lesson1\E12.CupsAndBottles\bin\Debug\netcoreapp3.1\E12.CupsAndBottles.runtimeconfig.dev.json
+D:\Advanced C#\Exercises\Lesson1\E12.CupsAndBottles\bin\Debug\netcoreapp3.1\E12.CupsAndBottles.dll
+D:\Advanced C#\Exercises\Lesson1\E12.CupsAndBottles\bin\Debug\netcoreapp3.1\E12.CupsAndBottles.pdb
+D:\Advanced C#\Exercises\Lesson1\E12.CupsAndBottles\obj\Debug\netcoreapp3.1\E12.CupsAndBottles.csproj.AssemblyReference.cache
+D:\Advanced C#\Exercises\Lesson1\E12.CupsAndBottles\obj\Debug\netcoreapp3.1\E12.CupsAndBottles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced C#\Exercises\Lesson1\E12.CupsAndBottles\obj\Debug\netcoreapp3.1\E12.CupsAndBottles.AssemblyInfoInputs.cache
+D:\Advanced C#\Exercises\Lesson1\E12.CupsAndBottles\obj\Debug\netcoreapp3.1\E12.CupsAndBottles.AssemblyInfo.cs
+D:\Advanced C#\Exercises\Lesson1\E12.CupsAndBottles\obj\Debug\netcoreapp3.1\E12.CupsAndBottles.csproj.CoreCompileInputs.cache
+D:\Advanced C#\Exercises\Lesson1\E12.CupsAndBottles\obj\Debug\netcoreapp3.1\E12.CupsAndBottles.dll
+D:\Advanced C#\Exercises\Lesson1\E12.CupsAndBottles\obj\Debug\netcoreapp3.1\E12.CupsAndBottles.pdb
+D:\Advanced C#\Exercises\Lesson1\E12.CupsAndBottles\obj\Debug\netcoreapp3.1\E12.CupsAndBottles.genruntimeconfig.cache

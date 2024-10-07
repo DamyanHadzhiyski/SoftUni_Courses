@@ -1,0 +1,14 @@
+D:\Advanced C#\Exercises\Lesson1\E06.SongsQueue\bin\Debug\netcoreapp3.1\E06.SongsQueue.exe
+D:\Advanced C#\Exercises\Lesson1\E06.SongsQueue\bin\Debug\netcoreapp3.1\E06.SongsQueue.deps.json
+D:\Advanced C#\Exercises\Lesson1\E06.SongsQueue\bin\Debug\netcoreapp3.1\E06.SongsQueue.runtimeconfig.json
+D:\Advanced C#\Exercises\Lesson1\E06.SongsQueue\bin\Debug\netcoreapp3.1\E06.SongsQueue.runtimeconfig.dev.json
+D:\Advanced C#\Exercises\Lesson1\E06.SongsQueue\bin\Debug\netcoreapp3.1\E06.SongsQueue.dll
+D:\Advanced C#\Exercises\Lesson1\E06.SongsQueue\bin\Debug\netcoreapp3.1\E06.SongsQueue.pdb
+D:\Advanced C#\Exercises\Lesson1\E06.SongsQueue\obj\Debug\netcoreapp3.1\E06.SongsQueue.csproj.AssemblyReference.cache
+D:\Advanced C#\Exercises\Lesson1\E06.SongsQueue\obj\Debug\netcoreapp3.1\E06.SongsQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced C#\Exercises\Lesson1\E06.SongsQueue\obj\Debug\netcoreapp3.1\E06.SongsQueue.AssemblyInfoInputs.cache
+D:\Advanced C#\Exercises\Lesson1\E06.SongsQueue\obj\Debug\netcoreapp3.1\E06.SongsQueue.AssemblyInfo.cs
+D:\Advanced C#\Exercises\Lesson1\E06.SongsQueue\obj\Debug\netcoreapp3.1\E06.SongsQueue.csproj.CoreCompileInputs.cache
+D:\Advanced C#\Exercises\Lesson1\E06.SongsQueue\obj\Debug\netcoreapp3.1\E06.SongsQueue.dll
+D:\Advanced C#\Exercises\Lesson1\E06.SongsQueue\obj\Debug\netcoreapp3.1\E06.SongsQueue.pdb
+D:\Advanced C#\Exercises\Lesson1\E06.SongsQueue\obj\Debug\netcoreapp3.1\E06.SongsQueue.genruntimeconfig.cache

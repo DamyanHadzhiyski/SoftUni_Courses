@@ -1,0 +1,14 @@
+D:\Advanced C#\Exercises\Lesson1\E01.BasicStackOperations\bin\Debug\netcoreapp3.1\E01.BasicStackOperations.exe
+D:\Advanced C#\Exercises\Lesson1\E01.BasicStackOperations\bin\Debug\netcoreapp3.1\E01.BasicStackOperations.deps.json
+D:\Advanced C#\Exercises\Lesson1\E01.BasicStackOperations\bin\Debug\netcoreapp3.1\E01.BasicStackOperations.runtimeconfig.json
+D:\Advanced C#\Exercises\Lesson1\E01.BasicStackOperations\bin\Debug\netcoreapp3.1\E01.BasicStackOperations.runtimeconfig.dev.json
+D:\Advanced C#\Exercises\Lesson1\E01.BasicStackOperations\bin\Debug\netcoreapp3.1\E01.BasicStackOperations.dll
+D:\Advanced C#\Exercises\Lesson1\E01.BasicStackOperations\bin\Debug\netcoreapp3.1\E01.BasicStackOperations.pdb
+D:\Advanced C#\Exercises\Lesson1\E01.BasicStackOperations\obj\Debug\netcoreapp3.1\E01.BasicStackOperations.csproj.AssemblyReference.cache
+D:\Advanced C#\Exercises\Lesson1\E01.BasicStackOperations\obj\Debug\netcoreapp3.1\E01.BasicStackOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced C#\Exercises\Lesson1\E01.BasicStackOperations\obj\Debug\netcoreapp3.1\E01.BasicStackOperations.AssemblyInfoInputs.cache
+D:\Advanced C#\Exercises\Lesson1\E01.BasicStackOperations\obj\Debug\netcoreapp3.1\E01.BasicStackOperations.AssemblyInfo.cs
+D:\Advanced C#\Exercises\Lesson1\E01.BasicStackOperations\obj\Debug\netcoreapp3.1\E01.BasicStackOperations.csproj.CoreCompileInputs.cache
+D:\Advanced C#\Exercises\Lesson1\E01.BasicStackOperations\obj\Debug\netcoreapp3.1\E01.BasicStackOperations.dll
+D:\Advanced C#\Exercises\Lesson1\E01.BasicStackOperations\obj\Debug\netcoreapp3.1\E01.BasicStackOperations.pdb
+D:\Advanced C#\Exercises\Lesson1\E01.BasicStackOperations\obj\Debug\netcoreapp3.1\E01.BasicStackOperations.genruntimeconfig.cache

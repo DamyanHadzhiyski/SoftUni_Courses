@@ -1,0 +1,14 @@
+D:\Advanced C#\Exercises\Lesson1\E10.Crossroads\bin\Debug\netcoreapp3.1\E10.Crossroads.exe
+D:\Advanced C#\Exercises\Lesson1\E10.Crossroads\bin\Debug\netcoreapp3.1\E10.Crossroads.deps.json
+D:\Advanced C#\Exercises\Lesson1\E10.Crossroads\bin\Debug\netcoreapp3.1\E10.Crossroads.runtimeconfig.json
+D:\Advanced C#\Exercises\Lesson1\E10.Crossroads\bin\Debug\netcoreapp3.1\E10.Crossroads.runtimeconfig.dev.json
+D:\Advanced C#\Exercises\Lesson1\E10.Crossroads\bin\Debug\netcoreapp3.1\E10.Crossroads.dll
+D:\Advanced C#\Exercises\Lesson1\E10.Crossroads\bin\Debug\netcoreapp3.1\E10.Crossroads.pdb
+D:\Advanced C#\Exercises\Lesson1\E10.Crossroads\obj\Debug\netcoreapp3.1\E10.Crossroads.csproj.AssemblyReference.cache
+D:\Advanced C#\Exercises\Lesson1\E10.Crossroads\obj\Debug\netcoreapp3.1\E10.Crossroads.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced C#\Exercises\Lesson1\E10.Crossroads\obj\Debug\netcoreapp3.1\E10.Crossroads.AssemblyInfoInputs.cache
+D:\Advanced C#\Exercises\Lesson1\E10.Crossroads\obj\Debug\netcoreapp3.1\E10.Crossroads.AssemblyInfo.cs
+D:\Advanced C#\Exercises\Lesson1\E10.Crossroads\obj\Debug\netcoreapp3.1\E10.Crossroads.csproj.CoreCompileInputs.cache
+D:\Advanced C#\Exercises\Lesson1\E10.Crossroads\obj\Debug\netcoreapp3.1\E10.Crossroads.dll
+D:\Advanced C#\Exercises\Lesson1\E10.Crossroads\obj\Debug\netcoreapp3.1\E10.Crossroads.pdb
+D:\Advanced C#\Exercises\Lesson1\E10.Crossroads\obj\Debug\netcoreapp3.1\E10.Crossroads.genruntimeconfig.cache

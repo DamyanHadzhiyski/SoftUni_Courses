@@ -1,0 +1,14 @@
+D:\Advanced C#\Exercises\Lesson1\E09.SimpleTextEditor\bin\Debug\netcoreapp3.1\E09.SimpleTextEditor.exe
+D:\Advanced C#\Exercises\Lesson1\E09.SimpleTextEditor\bin\Debug\netcoreapp3.1\E09.SimpleTextEditor.deps.json
+D:\Advanced C#\Exercises\Lesson1\E09.SimpleTextEditor\bin\Debug\netcoreapp3.1\E09.SimpleTextEditor.runtimeconfig.json
+D:\Advanced C#\Exercises\Lesson1\E09.SimpleTextEditor\bin\Debug\netcoreapp3.1\E09.SimpleTextEditor.runtimeconfig.dev.json
+D:\Advanced C#\Exercises\Lesson1\E09.SimpleTextEditor\bin\Debug\netcoreapp3.1\E09.SimpleTextEditor.dll
+D:\Advanced C#\Exercises\Lesson1\E09.SimpleTextEditor\bin\Debug\netcoreapp3.1\E09.SimpleTextEditor.pdb
+D:\Advanced C#\Exercises\Lesson1\E09.SimpleTextEditor\obj\Debug\netcoreapp3.1\E09.SimpleTextEditor.csproj.AssemblyReference.cache
+D:\Advanced C#\Exercises\Lesson1\E09.SimpleTextEditor\obj\Debug\netcoreapp3.1\E09.SimpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced C#\Exercises\Lesson1\E09.SimpleTextEditor\obj\Debug\netcoreapp3.1\E09.SimpleTextEditor.AssemblyInfoInputs.cache
+D:\Advanced C#\Exercises\Lesson1\E09.SimpleTextEditor\obj\Debug\netcoreapp3.1\E09.SimpleTextEditor.AssemblyInfo.cs
+D:\Advanced C#\Exercises\Lesson1\E09.SimpleTextEditor\obj\Debug\netcoreapp3.1\E09.SimpleTextEditor.csproj.CoreCompileInputs.cache
+D:\Advanced C#\Exercises\Lesson1\E09.SimpleTextEditor\obj\Debug\netcoreapp3.1\E09.SimpleTextEditor.dll
+D:\Advanced C#\Exercises\Lesson1\E09.SimpleTextEditor\obj\Debug\netcoreapp3.1\E09.SimpleTextEditor.pdb
+D:\Advanced C#\Exercises\Lesson1\E09.SimpleTextEditor\obj\Debug\netcoreapp3.1\E09.SimpleTextEditor.genruntimeconfig.cache

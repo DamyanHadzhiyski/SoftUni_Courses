@@ -1,0 +1,14 @@
+D:\Advanced C#\Exercises\Lesson1\E04.FastFood\bin\Debug\netcoreapp3.1\E04.FastFood.exe
+D:\Advanced C#\Exercises\Lesson1\E04.FastFood\bin\Debug\netcoreapp3.1\E04.FastFood.deps.json
+D:\Advanced C#\Exercises\Lesson1\E04.FastFood\bin\Debug\netcoreapp3.1\E04.FastFood.runtimeconfig.json
+D:\Advanced C#\Exercises\Lesson1\E04.FastFood\bin\Debug\netcoreapp3.1\E04.FastFood.runtimeconfig.dev.json
+D:\Advanced C#\Exercises\Lesson1\E04.FastFood\bin\Debug\netcoreapp3.1\E04.FastFood.dll
+D:\Advanced C#\Exercises\Lesson1\E04.FastFood\bin\Debug\netcoreapp3.1\E04.FastFood.pdb
+D:\Advanced C#\Exercises\Lesson1\E04.FastFood\obj\Debug\netcoreapp3.1\E04.FastFood.csproj.AssemblyReference.cache
+D:\Advanced C#\Exercises\Lesson1\E04.FastFood\obj\Debug\netcoreapp3.1\E04.FastFood.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced C#\Exercises\Lesson1\E04.FastFood\obj\Debug\netcoreapp3.1\E04.FastFood.AssemblyInfoInputs.cache
+D:\Advanced C#\Exercises\Lesson1\E04.FastFood\obj\Debug\netcoreapp3.1\E04.FastFood.AssemblyInfo.cs
+D:\Advanced C#\Exercises\Lesson1\E04.FastFood\obj\Debug\netcoreapp3.1\E04.FastFood.csproj.CoreCompileInputs.cache
+D:\Advanced C#\Exercises\Lesson1\E04.FastFood\obj\Debug\netcoreapp3.1\E04.FastFood.dll
+D:\Advanced C#\Exercises\Lesson1\E04.FastFood\obj\Debug\netcoreapp3.1\E04.FastFood.pdb
+D:\Advanced C#\Exercises\Lesson1\E04.FastFood\obj\Debug\netcoreapp3.1\E04.FastFood.genruntimeconfig.cache

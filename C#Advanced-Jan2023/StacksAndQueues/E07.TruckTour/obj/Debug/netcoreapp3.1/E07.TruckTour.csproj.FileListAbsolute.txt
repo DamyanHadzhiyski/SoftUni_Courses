@@ -1,0 +1,14 @@
+D:\Advanced C#\Exercises\Lesson1\E07.TruckTour\bin\Debug\netcoreapp3.1\E07.TruckTour.exe
+D:\Advanced C#\Exercises\Lesson1\E07.TruckTour\bin\Debug\netcoreapp3.1\E07.TruckTour.deps.json
+D:\Advanced C#\Exercises\Lesson1\E07.TruckTour\bin\Debug\netcoreapp3.1\E07.TruckTour.runtimeconfig.json
+D:\Advanced C#\Exercises\Lesson1\E07.TruckTour\bin\Debug\netcoreapp3.1\E07.TruckTour.runtimeconfig.dev.json
+D:\Advanced C#\Exercises\Lesson1\E07.TruckTour\bin\Debug\netcoreapp3.1\E07.TruckTour.dll
+D:\Advanced C#\Exercises\Lesson1\E07.TruckTour\bin\Debug\netcoreapp3.1\E07.TruckTour.pdb
+D:\Advanced C#\Exercises\Lesson1\E07.TruckTour\obj\Debug\netcoreapp3.1\E07.TruckTour.csproj.AssemblyReference.cache
+D:\Advanced C#\Exercises\Lesson1\E07.TruckTour\obj\Debug\netcoreapp3.1\E07.TruckTour.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced C#\Exercises\Lesson1\E07.TruckTour\obj\Debug\netcoreapp3.1\E07.TruckTour.AssemblyInfoInputs.cache
+D:\Advanced C#\Exercises\Lesson1\E07.TruckTour\obj\Debug\netcoreapp3.1\E07.TruckTour.AssemblyInfo.cs
+D:\Advanced C#\Exercises\Lesson1\E07.TruckTour\obj\Debug\netcoreapp3.1\E07.TruckTour.csproj.CoreCompileInputs.cache
+D:\Advanced C#\Exercises\Lesson1\E07.TruckTour\obj\Debug\netcoreapp3.1\E07.TruckTour.dll
+D:\Advanced C#\Exercises\Lesson1\E07.TruckTour\obj\Debug\netcoreapp3.1\E07.TruckTour.pdb
+D:\Advanced C#\Exercises\Lesson1\E07.TruckTour\obj\Debug\netcoreapp3.1\E07.TruckTour.genruntimeconfig.cache
