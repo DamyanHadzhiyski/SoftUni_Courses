@@ -1,0 +1,14 @@
+D:\Advanced C#\Exercises\Lesson2\E07.KnightGame\bin\Debug\netcoreapp3.1\E07.KnightGame.exe
+D:\Advanced C#\Exercises\Lesson2\E07.KnightGame\bin\Debug\netcoreapp3.1\E07.KnightGame.deps.json
+D:\Advanced C#\Exercises\Lesson2\E07.KnightGame\bin\Debug\netcoreapp3.1\E07.KnightGame.runtimeconfig.json
+D:\Advanced C#\Exercises\Lesson2\E07.KnightGame\bin\Debug\netcoreapp3.1\E07.KnightGame.runtimeconfig.dev.json
+D:\Advanced C#\Exercises\Lesson2\E07.KnightGame\bin\Debug\netcoreapp3.1\E07.KnightGame.dll
+D:\Advanced C#\Exercises\Lesson2\E07.KnightGame\bin\Debug\netcoreapp3.1\E07.KnightGame.pdb
+D:\Advanced C#\Exercises\Lesson2\E07.KnightGame\obj\Debug\netcoreapp3.1\E07.KnightGame.csproj.AssemblyReference.cache
+D:\Advanced C#\Exercises\Lesson2\E07.KnightGame\obj\Debug\netcoreapp3.1\E07.KnightGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced C#\Exercises\Lesson2\E07.KnightGame\obj\Debug\netcoreapp3.1\E07.KnightGame.AssemblyInfoInputs.cache
+D:\Advanced C#\Exercises\Lesson2\E07.KnightGame\obj\Debug\netcoreapp3.1\E07.KnightGame.AssemblyInfo.cs
+D:\Advanced C#\Exercises\Lesson2\E07.KnightGame\obj\Debug\netcoreapp3.1\E07.KnightGame.csproj.CoreCompileInputs.cache
+D:\Advanced C#\Exercises\Lesson2\E07.KnightGame\obj\Debug\netcoreapp3.1\E07.KnightGame.dll
+D:\Advanced C#\Exercises\Lesson2\E07.KnightGame\obj\Debug\netcoreapp3.1\E07.KnightGame.pdb
+D:\Advanced C#\Exercises\Lesson2\E07.KnightGame\obj\Debug\netcoreapp3.1\E07.KnightGame.genruntimeconfig.cache

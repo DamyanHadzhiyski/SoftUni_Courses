@@ -1,0 +1,14 @@
+D:\Advanced C#\Exercises\Lesson2\E03.MaximalSum\bin\Debug\netcoreapp3.1\E03.MaximalSum.exe
+D:\Advanced C#\Exercises\Lesson2\E03.MaximalSum\bin\Debug\netcoreapp3.1\E03.MaximalSum.deps.json
+D:\Advanced C#\Exercises\Lesson2\E03.MaximalSum\bin\Debug\netcoreapp3.1\E03.MaximalSum.runtimeconfig.json
+D:\Advanced C#\Exercises\Lesson2\E03.MaximalSum\bin\Debug\netcoreapp3.1\E03.MaximalSum.runtimeconfig.dev.json
+D:\Advanced C#\Exercises\Lesson2\E03.MaximalSum\bin\Debug\netcoreapp3.1\E03.MaximalSum.dll
+D:\Advanced C#\Exercises\Lesson2\E03.MaximalSum\bin\Debug\netcoreapp3.1\E03.MaximalSum.pdb
+D:\Advanced C#\Exercises\Lesson2\E03.MaximalSum\obj\Debug\netcoreapp3.1\E03.MaximalSum.csproj.AssemblyReference.cache
+D:\Advanced C#\Exercises\Lesson2\E03.MaximalSum\obj\Debug\netcoreapp3.1\E03.MaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced C#\Exercises\Lesson2\E03.MaximalSum\obj\Debug\netcoreapp3.1\E03.MaximalSum.AssemblyInfoInputs.cache
+D:\Advanced C#\Exercises\Lesson2\E03.MaximalSum\obj\Debug\netcoreapp3.1\E03.MaximalSum.AssemblyInfo.cs
+D:\Advanced C#\Exercises\Lesson2\E03.MaximalSum\obj\Debug\netcoreapp3.1\E03.MaximalSum.csproj.CoreCompileInputs.cache
+D:\Advanced C#\Exercises\Lesson2\E03.MaximalSum\obj\Debug\netcoreapp3.1\E03.MaximalSum.dll
+D:\Advanced C#\Exercises\Lesson2\E03.MaximalSum\obj\Debug\netcoreapp3.1\E03.MaximalSum.pdb
+D:\Advanced C#\Exercises\Lesson2\E03.MaximalSum\obj\Debug\netcoreapp3.1\E03.MaximalSum.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Advanced C#\Exercises\Lesson2\E06.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\E06.JaggedArrayManipulator.exe
+D:\Advanced C#\Exercises\Lesson2\E06.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\E06.JaggedArrayManipulator.deps.json
+D:\Advanced C#\Exercises\Lesson2\E06.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\E06.JaggedArrayManipulator.runtimeconfig.json
+D:\Advanced C#\Exercises\Lesson2\E06.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\E06.JaggedArrayManipulator.runtimeconfig.dev.json
+D:\Advanced C#\Exercises\Lesson2\E06.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\E06.JaggedArrayManipulator.dll
+D:\Advanced C#\Exercises\Lesson2\E06.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\E06.JaggedArrayManipulator.pdb
+D:\Advanced C#\Exercises\Lesson2\E06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\E06.JaggedArrayManipulator.csproj.AssemblyReference.cache
+D:\Advanced C#\Exercises\Lesson2\E06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\E06.JaggedArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced C#\Exercises\Lesson2\E06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\E06.JaggedArrayManipulator.AssemblyInfoInputs.cache
+D:\Advanced C#\Exercises\Lesson2\E06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\E06.JaggedArrayManipulator.AssemblyInfo.cs
+D:\Advanced C#\Exercises\Lesson2\E06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\E06.JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+D:\Advanced C#\Exercises\Lesson2\E06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\E06.JaggedArrayManipulator.dll
+D:\Advanced C#\Exercises\Lesson2\E06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\E06.JaggedArrayManipulator.pdb
+D:\Advanced C#\Exercises\Lesson2\E06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\E06.JaggedArrayManipulator.genruntimeconfig.cache

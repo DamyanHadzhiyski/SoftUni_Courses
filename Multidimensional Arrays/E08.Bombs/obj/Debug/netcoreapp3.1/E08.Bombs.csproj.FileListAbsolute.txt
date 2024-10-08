@@ -1,0 +1,14 @@
+D:\Advanced C#\Exercises\Lesson2\E08.Bombs\bin\Debug\netcoreapp3.1\E08.Bombs.exe
+D:\Advanced C#\Exercises\Lesson2\E08.Bombs\bin\Debug\netcoreapp3.1\E08.Bombs.deps.json
+D:\Advanced C#\Exercises\Lesson2\E08.Bombs\bin\Debug\netcoreapp3.1\E08.Bombs.runtimeconfig.json
+D:\Advanced C#\Exercises\Lesson2\E08.Bombs\bin\Debug\netcoreapp3.1\E08.Bombs.runtimeconfig.dev.json
+D:\Advanced C#\Exercises\Lesson2\E08.Bombs\bin\Debug\netcoreapp3.1\E08.Bombs.dll
+D:\Advanced C#\Exercises\Lesson2\E08.Bombs\bin\Debug\netcoreapp3.1\E08.Bombs.pdb
+D:\Advanced C#\Exercises\Lesson2\E08.Bombs\obj\Debug\netcoreapp3.1\E08.Bombs.csproj.AssemblyReference.cache
+D:\Advanced C#\Exercises\Lesson2\E08.Bombs\obj\Debug\netcoreapp3.1\E08.Bombs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced C#\Exercises\Lesson2\E08.Bombs\obj\Debug\netcoreapp3.1\E08.Bombs.AssemblyInfoInputs.cache
+D:\Advanced C#\Exercises\Lesson2\E08.Bombs\obj\Debug\netcoreapp3.1\E08.Bombs.AssemblyInfo.cs
+D:\Advanced C#\Exercises\Lesson2\E08.Bombs\obj\Debug\netcoreapp3.1\E08.Bombs.csproj.CoreCompileInputs.cache
+D:\Advanced C#\Exercises\Lesson2\E08.Bombs\obj\Debug\netcoreapp3.1\E08.Bombs.dll
+D:\Advanced C#\Exercises\Lesson2\E08.Bombs\obj\Debug\netcoreapp3.1\E08.Bombs.pdb
+D:\Advanced C#\Exercises\Lesson2\E08.Bombs\obj\Debug\netcoreapp3.1\E08.Bombs.genruntimeconfig.cache
