@@ -1,0 +1,45 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.viewport {
+    height: 50vh;
+    position: relative;
+    overflow: hidden;
+}
+
+.viewport.grad-blue {
+    background: linear-gradient(10deg, rgb(58, 56, 56) 0%, rgb(101, 101, 253) 20%, rgb(108, 245, 80) 100%);
+}
+
+.viewport.grad-orange {
+    background: linear-gradient(10deg, rgb(58, 56, 56) 0%, rgb(240, 133, 72) 20%, rgb(245, 207, 104) 100%);
+}
+
+.card {
+    display: block;
+    max-width: 18em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    overflow: hidden;
+}
+
+.card img {
+    display: block;
+    border-radius: 5px;
+    box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: auto;
+}
+
+.card .icon {
+    position: absolute;
+    bottom: 1em;
+    right: 1em;
+    color: white;
+    z-index: 1;
+}

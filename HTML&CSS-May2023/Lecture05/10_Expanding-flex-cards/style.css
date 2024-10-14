@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    background-color: rgb(238, 238, 238);
+    justify-content: center;
+    height: 98vh;
+    width: 80vw;
+    align-items: center;
+    padding: 2em;
+}
+
+section.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+}
+
+img {
+    border: 1px solid rgba(0,0,0,0.5);
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px 5px rgba(0,0,0,0.75);
+    height: 20em;
+    flex: 0 0 10em;
+}
+
+img.selected {
+    flex: 1 0 30em;
+}

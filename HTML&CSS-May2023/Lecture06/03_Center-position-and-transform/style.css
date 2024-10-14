@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    box-sizing: border-box;
+    background-color: rgb(238, 238, 238);
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    border-radius: 5px;
+    box-shadow: 0 0 1em 0 black;
+    max-width: 30em;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    overflow: hidden;
+}
+
+.card div:nth-child(1) {
+    grid-row: 1 / 2;
+}
+
+.card div:nth-child(2) {
+    grid-row: 2 / 3;
+}
+
+img {
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: auto;
+}

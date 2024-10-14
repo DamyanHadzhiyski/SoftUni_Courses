@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    background-color: rgb(238, 238, 238);
+    height: 90vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    padding: 1em;
+    max-width: 20em;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 0 0 10px 2px rgba(0, 3, 3, 0.8);
+}

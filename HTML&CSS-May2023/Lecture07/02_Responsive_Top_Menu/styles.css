@@ -1,0 +1,93 @@
+body * {
+    border-radius: 3px;
+    background-color: rgb(181,216,255);
+    padding: 5px 10px;
+}
+
+body {
+    display: grid;
+    grid-template-columns: 100px auto;
+    grid-template-areas: 
+        "header header"
+        "aside main"
+        "footer footer";
+    gap: 10px;
+}
+
+@media (max-width: 500px) {
+    body {
+        grid-template-areas: 
+        "header header"
+        "aside aside"
+        "main main"
+        "footer footer";
+    }
+}
+
+header {
+    grid-area: header;
+}
+
+header h1 {
+    display: inline-block;
+    text-align: center;
+}
+
+header > nav {
+    display: inline-block;
+    align-items: middle;
+    margin-top: 8px;
+}
+
+header > nav > ul > li {
+    list-style: none;
+    display: inline;
+    line-height: 1.5;
+}
+
+header > nav > ul > li > a {
+    text-decoration: none;
+    color: rgb(53, 100, 153);
+    padding: 5px 15px;
+}
+
+@media (max-width: 500px) {
+    header > nav > ul {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    header > nav > ul > a {
+        display: block;
+        padding-left: 5px;
+    }
+}
+
+aside {
+    grid-area: aside;
+}
+
+main {
+    grid-area: main;
+}
+
+footer {
+    grid-area: footer;
+}
+
+aside ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+}
+
+aside ul li a{
+    display: block;
+    padding: 5px 0;
+    color: rgb(86, 40, 129);
+    text-decoration: none;
+}
+
+main ul{
+    padding-left: 4em;
+}

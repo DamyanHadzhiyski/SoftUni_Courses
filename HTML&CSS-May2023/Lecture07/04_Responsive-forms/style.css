@@ -1,0 +1,27 @@
+* , 
+*:active, 
+*:before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 1em;
+}
+
+fieldset {
+    display: flex;
+    justify-content: start;
+}
+
+form {
+    margin: 1em;
+}
+
+legend {
+    display: block;
+    width: 30%;
+    padding: 0.5em;
+    border: 0.1em solid #5a5555;
+}
