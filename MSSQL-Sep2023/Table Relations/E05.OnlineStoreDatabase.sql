@@ -1,0 +1,56 @@
+CREATE TABLE [ItemTypes] (
+	[ItemTypeID] INT PRIMARY KEY IDENTITY
+	,[Name] NVARCHAR(200) NOT NULL
+)
+
+CREATE TABLE [Items] (
+	[ItemID] INT PRIMARY KEY IDENTITY
+	,[Name] NVARCHAR(200) NOT NULL
+	,[ItemTypeID] INT NOT NULL
+)
+
+CREATE TABLE [Cities] (
+	[CityID] INT PRIMARY KEY IDENTITY
+	,[Name] NVARCHAR(200) NOT NULL
+)
+
+CREATE TABLE [Customers] (
+	[CustomerID] INT PRIMARY KEY IDENTITY
+	,[Name] NVARCHAR(200) NOT NULL
+	,[Birthday] DATE
+	,[CityID] INT NOT NULL
+)
+
+CREATE TABLE [Orders] (
+	[OrderID] INT PRIMARY KEY IDENTITY
+	,[CustomerID] INT NOT NULL
+)
+
+CREATE TABLE [OrderItems] (
+	[OrderID] INT NOT NULL
+	,[ItemID] INT NOT NULL
+)
+
+ALTER TABLE [Items]
+ADD CONSTRAINT FK_ItemTypes_Items
+FOREIGN KEY ([ItemTypeID]) REFERENCES [ItemTypes]([ItemTypeID])
+
+ALTER TABLE [OrderItems]
+ADD CONSTRAINT FK_Items_OrderItems
+FOREIGN KEY ([ItemID]) REFERENCES [Items]([ItemID])
+
+ALTER TABLE [OrderItems]
+ADD CONSTRAINT FK_Orders_OrderItems
+FOREIGN KEY ([OrderID]) REFERENCES [Orders]([OrderID])
+
+ALTER TABLE [OrderItems]
+ADD CONSTRAINT PK_OrderID_ItemID
+PRIMARY KEY ([OrderID], [ItemID])
+
+ALTER TABLE [Orders]
+ADD CONSTRAINT FK_Orders_Customers
+FOREIGN KEY ([CustomerID]) REFERENCES [Customers]([CustomerID])
+
+ALTER TABLE [Customers]
+ADD CONSTRAINT FK_Customers_Cities
+FOREIGN KEY ([CityID]) REFERENCES [Cities]([CityID])
