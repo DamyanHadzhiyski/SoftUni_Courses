@@ -8,16 +8,16 @@ namespace CarDealer.DTOs.Export
 		[XmlElement("car")]
 		public ExportCarDto Car { get; set; } = null!;
 
-        [XmlElement("discount")]
-        public decimal Discount { get; set; }
+		[XmlElement("discount")]
+		public string Discount { get; set; } = null!;
 
 		[XmlElement("customer-name")]
 		public string Name { get; set; } = null!;
 
         [XmlElement("price")]
-        public decimal Price { get; set; }
+        public string Price { get; set; } = null!;
 
-        [XmlElement("price-with-discount")]
-        public decimal DiscountedPrice { get; set; }
-    }
+		[XmlElement("price-with-discount")]
+        public string DiscountedPrice { get; set; } = null!;
+	}
 }

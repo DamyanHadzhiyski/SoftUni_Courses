@@ -54,10 +54,10 @@ namespace CarDealer
 			//Console.WriteLine(GetCarsWithTheirListOfParts(carDb));
 
 			// 18. Export Total Sales By Customer
-			//Console.WriteLine(GetTotalSalesByCustomer(carDb));
+			Console.WriteLine(GetTotalSalesByCustomer(carDb));
 
 			// 19. Export Sales With Applied Discount
-			Console.WriteLine(GetSalesWithAppliedDiscount(carDb));
+			//Console.WriteLine(GetSalesWithAppliedDiscount(carDb));
 			#endregion
 		}
 
@@ -319,34 +319,23 @@ namespace CarDealer
 
 		public static string GetTotalSalesByCustomer(CarDealerContext context)
 		{
+
 			var customerWithBoughtCars = context.Customers
-												.Where(c => c.Sales.Any())
-												.Select(c => new ExportCustomerWithCarsDto
-												{
-													Name = c.Name,
-													Cars = c.Sales.Select(s => s.Car).ToArray()
-												})
-												.ToArray();
-
-			List<ExportCustomerTotalSalesDTO> result = new List<ExportCustomerTotalSalesDTO>();
-			
-			foreach (var customer in customerWithBoughtCars)
-			{
-				var newcustom = new ExportCustomerTotalSalesDTO
-				{
-					Name = customer.Name,
-					BoughtCars = customer.Cars.Count(),
-				};
-
-				foreach(var car in customer.Cars)
-				{
-
-				}
-
-				result.Add(newcustom);
-			}
-									
-
+								.Include(c => c.Sales)
+								.ThenInclude(s => s.Car.PartsCars)
+								.ThenInclude(pc => pc.Part)
+								.Where(c => c.Sales.Any())
+								.ToArray()
+								.Select(c => new ExportCustomerTotalSalesDTO
+								{
+									Name = c.Name,
+									BoughtCars = c.Sales.Count,
+									SpentMoney = Math.Round((c.IsYoungDriver ? 
+													c.Sales.Sum(s => s.Car.PartsCars.Sum(p => p.Part.Price)) * 0.95m :
+													c.Sales.Sum(s => s.Car.PartsCars.Sum(p => p.Part.Price))),2, MidpointRounding.ToZero)
+								})
+								.OrderByDescending(c => c.SpentMoney)
+								.ToArray();
 
 			var serializer =
 				new XmlSerializer(typeof(ExportCustomerTotalSalesDTO[]), new XmlRootAttribute("customers"));
@@ -374,14 +363,12 @@ namespace CarDealer
 													Model = s.Car.Model,
 													TraveledDistance = s.Car.TraveledDistance
 												},
-												Discount = s.Discount,
+												Discount = s.Discount.ToString(),
 												Name = s.Customer.Name,
-												Price = s.Car.PartsCars.Sum(pc => pc.Part.Price),
-												DiscountedPrice = s.Car.PartsCars.Sum(pc => pc.Part.Price) * (1 - s.Discount / 100m)
+												Price = s.Car.PartsCars.Sum(pc => pc.Part.Price).ToString(),
+												DiscountedPrice = (s.Car.PartsCars.Sum(pc => pc.Part.Price) * (1 - s.Discount / 100m)).ToString()
 											})
 											.ToArray();
-
-
 
 			var serializer =
 				new XmlSerializer(typeof(ExportSalaesWithDiscountDto[]), new XmlRootAttribute("sales"));
