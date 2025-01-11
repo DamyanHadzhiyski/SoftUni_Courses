@@ -1,1 +1,1 @@
-DROP DATABASE minions_db WITH (FORCE);
+DROP TABLE minions_birthdays
