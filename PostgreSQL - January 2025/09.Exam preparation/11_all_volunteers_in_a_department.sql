@@ -1,18 +1,21 @@
-CREATE OR REPLACE PROCEDURE 
-	sp_animals_with_owners_or_not(
-		animal_name IN VARCHAR(30),
-		return_val OUT VARCHAR
+CREATE OR REPLACE FUNCTION 
+	fn_get_volunteers_count_from_department(
+		searched_volunteers_department VARCHAR(30)
 	)
+RETURNS INT
 AS
 $$
-	BEGIN	
+	DECLARE
+		res INT;
+	BEGIN
 		SELECT
-			COALESCE(o.name, 'For adoption') INTO return_val
+			COUNT(*) INTO res
 		FROM
-			animals AS a
-			LEFT JOIN owners AS o ON o.id = a.owner_id 
+			volunteers AS v
+			JOIN volunteers_departments AS vd ON vd.id = v.department_id
 		WHERE
-			a.name = animal_name;
+			vd.department_name = searched_volunteers_department;
+		RETURN res;
 	END;
 $$
 LANGUAGE plpgsql;
